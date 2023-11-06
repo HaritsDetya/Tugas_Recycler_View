@@ -8,9 +8,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.tugas_recycler_view.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var hercules: String
-    private lateinit var prometheus: String
-    private lateinit var achilles: String
+    private lateinit var diponegoro: String
+    private lateinit var kartini: String
+    private lateinit var dewantara: String
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -18,15 +18,15 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        hercules = getString(R.string.deskripsi_hercules)
-        prometheus = getString(R.string.deskripsi_prometheus)
-        achilles = getString(R.string.deskripsi_achilles)
+        diponegoro = getString(R.string.deskripsi_diponegoro)
+        kartini = getString(R.string.deskripsi_kartini)
+        dewantara = getString(R.string.deskripsi_dewantara)
 
         fun generateDummy(): List<Pahlawan> {
             return listOf(
-                Pahlawan(namaPahlawan = "Hercules", gambarPahlawan = R.drawable.hercules, deskripsiPahlawan = hercules),
-                Pahlawan(namaPahlawan = "Prometheus", gambarPahlawan = R.drawable.prometheus, deskripsiPahlawan = prometheus),
-                Pahlawan(namaPahlawan = "Achilles", gambarPahlawan = R.drawable.achilles, deskripsiPahlawan = achilles),
+                Pahlawan(namaPahlawan = "Pangeran Diponegoro", gambarPahlawan = R.drawable.pangeran_diponegoro, deskripsiPahlawan = diponegoro),
+                Pahlawan(namaPahlawan = "Raden Ajeng Kartini", gambarPahlawan = R.drawable.kartini, deskripsiPahlawan = kartini),
+                Pahlawan(namaPahlawan = "Ki Hajar Dewantara", gambarPahlawan = R.drawable.ki_hajar_dewantara, deskripsiPahlawan = dewantara),
             )
         }
 

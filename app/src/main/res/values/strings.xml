@@ -1,23 +1,35 @@
 <resources>
     <string name="app_name">Tugas_Recycler_View</string>
-    <string name="deskripsi_hercules">
-        Hercules, atau Heracles dalam bahasa Yunani, adalah pahlawan mitologi Yunani yang terkenal
-        karena kekuatannya yang luar biasa. Dia adalah putra Zeus dan Alcmena, dan dikenal karena
-        menyelesaikan "Dua Belas Tugas Hercules" sebagai hukuman atas perbuatan salah yang
-        dipengaruhi oleh Hera. Selain itu, ia terlibat dalam berbagai petualangan mitologi lainnya,
-        seperti perjalanan dengan Argonauts dan pernikahan tragis. Hercules merupakan simbol
-        kekuatan dan ketangguhan yang terus memengaruhi seni, sastra, dan budaya populer.
+    <string name="deskripsi_diponegoro">
+        Pangeran Diponegoro adalah seorang tokoh sejarah Indonesia yang terkenal karena peran besar
+        dalam perlawanan terhadap pemerintahan kolonial Belanda pada awal abad ke-19. Ia adalah
+        seorang pangeran Jawa yang menjadi pemimpin perlawanan melawan Belanda dalam apa yang
+        dikenal sebagai "Perang Diponegoro" (1825-1830). Perlawanan Diponegoro terutama didasarkan
+        pada ketidakpuasan terhadap pajak yang tinggi dan campur tangan Belanda dalam urusan Jawa.
+        Meskipun akhirnya ditangkap oleh Belanda pada tahun 1830, perlawanannya telah meninggalkan
+        warisan penting dalam sejarah Indonesia dan dianggap sebagai simbol perjuangan kemerdekaan
+        nasional.
     </string>
-    <string name="deskripsi_prometheus">
-        Prometheus adalah Titan dalam mitologi Yunani yang mencuri api dari Zeus dan memberikannya
-        kepada manusia. Tindakannya membuatnya disiksa dengan diikat di gunung dan hatinya dimakan
-        oleh burung elang setiap hari, tetapi tumbuh kembali setiap malam. Ia menjadi simbol
-        pemberontakan terhadap kekuasaan dewa dan pemberian pengetahuan kepada manusia.
+    <string name="deskripsi_kartini">
+        Raden Ajeng Kartini, yang lebih dikenal sebagai Kartini, adalah seorang pahlawan nasional
+        Indonesiayang dikenal karena perjuangannya dalam memajukan hak-hak perempuan dan pendidikan
+        di awalabad ke-20. Ia lahir pada tahun 1879 di Jepara, Jawa Tengah, dan dianggap sebagai
+        salah satutokoh perempuan terkemuka dalam sejarah Indonesia. Kartini berjuang untuk hak-hak
+        perempuan,seperti akses pendidikan dan kebebasan berpendapat. Tulisannya yang terkenal,
+        seperti "HabisGelap Terbitlah Terang," menjadi sumber inspirasi dalam perjuangan pembebasan
+        perempuan diIndonesia. Meskipun ia meninggal muda pada tahun 1904, warisannya tetap hidup,
+        dan setiaptahun, pada tanggal 21 April, di Indonesia dirayakan sebagai Hari Kartini untuk
+        mengenang perjuangannya.
     </string>
-    <string name="deskripsi_achilles">
-        Achilles adalah pahlawan mitologi Yunani terkenal karena kekuatan dan keterlibatannya dalam
-        Perang Troya. Dia memiliki satu titik lemah, tumitnya, yang dikenal sebagai "Achilles' heel"
-        dan tewas akibat serangan di sana. Ceritanya mencerminkan keberanian dan tragedi dalam
-        mitologi Yunani.
+    <string name="deskripsi_dewantara">
+        Ki Hajar Dewantara, yang lahir dengan nama Raden Mas Soewardi Soerjaningrat, adalah seorang
+        tokoh pendidikan dan kemerdekaan Indonesia yang lahir pada tahun 1889 di Yogyakarta. Ia
+        dikenal sebagai pelopor dalam bidang pendidikan di Indonesia dan pendiri Sekolah Taman
+        Siswa, sebuah lembaga pendidikan yang mendukung pendidikan rakyat Indonesia pada masa
+        penjajahan Belanda. Ki Hajar Dewantara sangat menekankan pendidikan yang inklusif dan
+        merakyat, serta pemberian hak pendidikan kepada semua golongan masyarakat. Ia juga aktif
+        dalam pergerakan kemerdekaan Indonesia. Ki Hajar Dewantara dihormati sebagai salah satu
+        tokoh paling berpengaruh dalam sejarah pendidikan Indonesia, dan peringatan kelahirannya,
+        yang jatuh pada 2 Mei, dijadikan Hari Pendidikan Nasional di Indonesia.
     </string>
 </resources>

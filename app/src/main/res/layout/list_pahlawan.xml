@@ -17,7 +17,7 @@
             android:layout_height="190dp"
             android:adjustViewBounds="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/hercules"
+            android:src="@drawable/pangeran_diponegoro"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
         <LinearLayout
@@ -28,7 +28,7 @@
                 android:id="@+id/name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Hercules"
+                android:text="Pangeran Diponegoro"
                 android:gravity="center"
                 android:textStyle="bold"
                 android:textSize="20dp"
@@ -39,8 +39,8 @@
                 android:id="@+id/deskripsi"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/deskripsi_hercules"
-                android:textSize="11dp"
+                android:text="@string/deskripsi_diponegoro"
+                android:textSize="10dp"
                 android:textColor="@color/black"
                 android:paddingLeft="10dp"
                 android:paddingVertical="3dp"/>
