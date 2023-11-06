@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tugas_Recycler_View</string>
+    <string name="deskripsi_hercules">
+        Hercules, atau Heracles dalam bahasa Yunani, adalah pahlawan mitologi Yunani yang terkenal
+        karena kekuatannya yang luar biasa. Dia adalah putra Zeus dan Alcmena, dan dikenal karena
+        menyelesaikan "Dua Belas Tugas Hercules" sebagai hukuman atas perbuatan salah yang
+        dipengaruhi oleh Hera. Selain itu, ia terlibat dalam berbagai petualangan mitologi lainnya,
+        seperti perjalanan dengan Argonauts dan pernikahan tragis. Hercules merupakan simbol
+        kekuatan dan ketangguhan yang terus memengaruhi seni, sastra, dan budaya populer.
+    </string>
+    <string name="deskripsi_prometheus">
+        Prometheus adalah Titan dalam mitologi Yunani yang mencuri api dari Zeus dan memberikannya
+        kepada manusia. Tindakannya membuatnya disiksa dengan diikat di gunung dan hatinya dimakan
+        oleh burung elang setiap hari, tetapi tumbuh kembali setiap malam. Ia menjadi simbol
+        pemberontakan terhadap kekuasaan dewa dan pemberian pengetahuan kepada manusia.
+    </string>
+    <string name="deskripsi_achilles">
+        Achilles adalah pahlawan mitologi Yunani terkenal karena kekuatan dan keterlibatannya dalam
+        Perang Troya. Dia memiliki satu titik lemah, tumitnya, yang dikenal sebagai "Achilles' heel"
+        dan tewas akibat serangan di sana. Ceritanya mencerminkan keberanian dan tragedi dalam
+        mitologi Yunani.
+    </string>
+</resources>
